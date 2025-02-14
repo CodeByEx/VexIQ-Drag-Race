@@ -9,7 +9,9 @@ This code is built to keep the robot in a straight line as much as possible duri
 ## 📦 Tools & Compatibility
 
 ✅ Programming Language: Python 🐍
+
 ✅ Developed With: VEXcode IQ 🦾
+
 ✅ Also Works On: Visual Studio Code 💻
 
 ## 🔧 How It Works
